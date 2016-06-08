@@ -5,4 +5,4 @@
 目次
 ----
 
-* [機械学習とは](./machine_learning.md)
+1. [機械学習とは](./1_machine_learning.md)
